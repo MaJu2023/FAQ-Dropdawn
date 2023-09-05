@@ -6,6 +6,8 @@ FAQ-Dropdown is a simple and interactive FAQ (Frequently Asked Questions) compon
 
 ![FAQ-Dropdown Preview](images/screenshot1.png)
 
+![FAQ-Dropdown Preview](images/screenshot2.png)
+
 ## Features
 
 - Expand and collapse answers with a single click.
